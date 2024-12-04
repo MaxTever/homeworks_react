@@ -1,5 +1,4 @@
-
-import { Form } from './Form.tsx'
+import { Form } from './Form.js'
 import './App.css'
 
 function App() {

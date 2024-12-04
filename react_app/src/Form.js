@@ -1,6 +1,6 @@
 import {Component} from 'react';
 import './Form.css'
-import { ChildComponent } from './ChildComponent.tsx';
+import { ChildComponent } from './ChildComponent.js';
 
 
 export class Form extends Component {
